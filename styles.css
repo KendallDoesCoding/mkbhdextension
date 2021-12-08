@@ -1,5 +1,4 @@
- html,
-      body {
+ html, body {
         font-family: "Open Sans", sans-serif;
         font-size: 14px;
         margin: 0;
@@ -76,3 +75,6 @@
         font-size: 40px;
         color: #2f5876;
       }
+.flex img {
+   background-color: lightblue;
+}
