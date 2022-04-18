@@ -20,6 +20,7 @@
 }
  img {
      width: 30px;
+     color: darksalmon; 
 }
  .modal-header {
      align-items: center;
@@ -53,9 +54,6 @@
      opacity: 1;
      transition: opacity 0.2s ease-in-out;
      width: 120px;
-}
- img {
-     color: darksalmon 
 }
  .flex:hover {
      opacity: 0.4;
